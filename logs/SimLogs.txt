@@ -1,0 +1,347 @@
+2022-08-08 15:25:15.021 INFO [Thread-7] [com.example.tema2/com.example.tema2.viewController.SimulationManager.run(SimulationManager.java:145)] - timp = 0
+ pe hol mai sunt 22 clienti in asteptare
+Task{id=20, arrivalTime=2, serviceTime=1}
+Task{id=0, arrivalTime=2, serviceTime=2}
+Task{id=11, arrivalTime=2, serviceTime=2}
+Task{id=15, arrivalTime=2, serviceTime=2}
+Task{id=3, arrivalTime=2, serviceTime=3}
+Task{id=7, arrivalTime=2, serviceTime=3}
+Task{id=17, arrivalTime=2, serviceTime=3}
+Task{id=1, arrivalTime=3, serviceTime=1}
+Task{id=9, arrivalTime=3, serviceTime=2}
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+chioscul 2 =
+chioscul 3 =
+chioscul 4 =
+
+############
+timp = 1
+ pe hol mai sunt 22 clienti in asteptare
+Task{id=20, arrivalTime=2, serviceTime=1}
+Task{id=0, arrivalTime=2, serviceTime=2}
+Task{id=11, arrivalTime=2, serviceTime=2}
+Task{id=15, arrivalTime=2, serviceTime=2}
+Task{id=3, arrivalTime=2, serviceTime=3}
+Task{id=7, arrivalTime=2, serviceTime=3}
+Task{id=17, arrivalTime=2, serviceTime=3}
+Task{id=1, arrivalTime=3, serviceTime=1}
+Task{id=9, arrivalTime=3, serviceTime=2}
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+chioscul 2 =
+chioscul 3 =
+chioscul 4 =
+
+############
+timp = 2
+ pe hol mai sunt 15 clienti in asteptare
+Task{id=1, arrivalTime=3, serviceTime=1}
+Task{id=9, arrivalTime=3, serviceTime=2}
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=20, arrivalTime=2, serviceTime=1}
+Task{id=3, arrivalTime=2, serviceTime=3}
+chioscul 2 =
+Task{id=0, arrivalTime=2, serviceTime=2}
+Task{id=7, arrivalTime=2, serviceTime=3}
+chioscul 3 =
+Task{id=11, arrivalTime=2, serviceTime=2}
+Task{id=17, arrivalTime=2, serviceTime=3}
+chioscul 4 =
+Task{id=15, arrivalTime=2, serviceTime=2}
+
+############
+timp = 3
+ pe hol mai sunt 13 clienti in asteptare
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=3, arrivalTime=2, serviceTime=3}
+Task{id=1, arrivalTime=3, serviceTime=1}
+chioscul 2 =
+Task{id=0, arrivalTime=2, serviceTime=2}
+Task{id=7, arrivalTime=2, serviceTime=3}
+chioscul 3 =
+Task{id=11, arrivalTime=2, serviceTime=2}
+Task{id=17, arrivalTime=2, serviceTime=3}
+chioscul 4 =
+Task{id=15, arrivalTime=2, serviceTime=2}
+Task{id=9, arrivalTime=3, serviceTime=2}
+
+############
+timp = 3
+ pe hol mai sunt 10 clienti in asteptare
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=3, arrivalTime=2, serviceTime=3}
+Task{id=1, arrivalTime=3, serviceTime=1}
+chioscul 2 =
+Task{id=7, arrivalTime=2, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=2}
+chioscul 3 =
+Task{id=17, arrivalTime=2, serviceTime=3}
+Task{id=4, arrivalTime=3, serviceTime=3}
+chioscul 4 =
+Task{id=9, arrivalTime=3, serviceTime=2}
+Task{id=8, arrivalTime=3, serviceTime=3}
+
+############
+timp = 3
+ pe hol mai sunt 10 clienti in asteptare
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=3, arrivalTime=2, serviceTime=3}
+Task{id=1, arrivalTime=3, serviceTime=1}
+chioscul 2 =
+Task{id=7, arrivalTime=2, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=2}
+chioscul 3 =
+Task{id=17, arrivalTime=2, serviceTime=3}
+Task{id=4, arrivalTime=3, serviceTime=3}
+chioscul 4 =
+Task{id=9, arrivalTime=3, serviceTime=2}
+Task{id=8, arrivalTime=3, serviceTime=3}
+
+############
+timp = 3
+ pe hol mai sunt 8 clienti in asteptare
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=1, arrivalTime=3, serviceTime=1}
+Task{id=12, arrivalTime=3, serviceTime=3}
+chioscul 2 =
+Task{id=7, arrivalTime=2, serviceTime=3}
+Task{id=10, arrivalTime=3, serviceTime=2}
+chioscul 3 =
+Task{id=17, arrivalTime=2, serviceTime=3}
+Task{id=4, arrivalTime=3, serviceTime=3}
+chioscul 4 =
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+
+############
+timp = 4
+ pe hol mai sunt 5 clienti in asteptare
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+chioscul 2 =
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=6, arrivalTime=4, serviceTime=1}
+chioscul 3 =
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=18, arrivalTime=4, serviceTime=1}
+chioscul 4 =
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+
+############
+timp = 4
+ pe hol mai sunt 5 clienti in asteptare
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=19, arrivalTime=4, serviceTime=2}
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+chioscul 2 =
+Task{id=10, arrivalTime=3, serviceTime=2}
+Task{id=6, arrivalTime=4, serviceTime=1}
+chioscul 3 =
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=18, arrivalTime=4, serviceTime=1}
+chioscul 4 =
+Task{id=8, arrivalTime=3, serviceTime=3}
+Task{id=14, arrivalTime=3, serviceTime=3}
+
+############
+timp = 4
+ pe hol mai sunt 3 clienti in asteptare
+Task{id=2, arrivalTime=4, serviceTime=3}
+Task{id=13, arrivalTime=4, serviceTime=3}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 1 =
+Task{id=12, arrivalTime=3, serviceTime=3}
+Task{id=5, arrivalTime=4, serviceTime=1}
+chioscul 2 =
+Task{id=6, arrivalTime=4, serviceTime=1}
+Task{id=16, arrivalTime=4, serviceTime=2}
+chioscul 3 =
+Task{id=4, arrivalTime=3, serviceTime=3}
+Task{id=18, arrivalTime=4, serviceTime=1}
+chioscul 4 =
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=4, serviceTime=2}
+
+############
+timp = 4
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+Task{id=5, arrivalTime=4, serviceTime=1}
+Task{id=2, arrivalTime=4, serviceTime=3}
+chioscul 2 =
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=13, arrivalTime=4, serviceTime=3}
+chioscul 3 =
+Task{id=18, arrivalTime=4, serviceTime=1}
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 4 =
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=4, serviceTime=2}
+
+############
+timp = 5
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+Task{id=2, arrivalTime=4, serviceTime=3}
+chioscul 2 =
+Task{id=16, arrivalTime=4, serviceTime=2}
+Task{id=13, arrivalTime=4, serviceTime=3}
+chioscul 3 =
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 4 =
+Task{id=14, arrivalTime=3, serviceTime=3}
+Task{id=19, arrivalTime=4, serviceTime=2}
+
+############
+timp = 6
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+Task{id=2, arrivalTime=4, serviceTime=3}
+chioscul 2 =
+Task{id=13, arrivalTime=4, serviceTime=3}
+chioscul 3 =
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 4 =
+Task{id=19, arrivalTime=4, serviceTime=2}
+
+############
+timp = 7
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+Task{id=2, arrivalTime=4, serviceTime=3}
+chioscul 2 =
+Task{id=13, arrivalTime=4, serviceTime=3}
+chioscul 3 =
+Task{id=21, arrivalTime=4, serviceTime=3}
+chioscul 4 =
+Task{id=19, arrivalTime=4, serviceTime=2}
+
+############
+timp = 8
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+chioscul 2 =
+Task{id=13, arrivalTime=4, serviceTime=3}
+chioscul 3 =
+chioscul 4 =
+
+############
+timp = 9
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+chioscul 2 =
+chioscul 3 =
+chioscul 4 =
+
+############
+timp = 10
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+chioscul 2 =
+chioscul 3 =
+chioscul 4 =
+
+############
+timp = 11
+ pe hol mai sunt 0 clienti in asteptare
+chioscul 1 =
+chioscul 2 =
+chioscul 3 =
+chioscul 4 =
+
+############
+
+average service time =2.2272727
+Peak Hour =0
+average waiting time = 91.333336
